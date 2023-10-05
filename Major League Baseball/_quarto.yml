@@ -20,6 +20,8 @@ format:
       dark: superhero
     css: styles.css
     toc: true
+  pptx: default
+  docx: default
 
   
 
