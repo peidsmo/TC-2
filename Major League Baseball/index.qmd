@@ -1,0 +1,20 @@
+---
+title: "Major League Baseball"
+---
+
+
+This is Patrick's website about Major League Baseball.
+
+## Major Leage Baseball History
+
+Major league baseball grew out of small, organized leagues in the late 1800's. Many eastern cities had community baseball teams, and rich people began to pay players to play for their teams. These teams grew and started playing one another, and eventually formed into two leagues: The American League and the National League.
+
+## Major League Baseball Organization
+
+Within the American and National leages, there are three divisions within each league: an East, Central, and West division. Each division has five teams.
+
+
+## Interleague Play
+
+Starting in 1997, the AL (American League) and the NL (National League) had an uneven number of teams. The AL had 14 teams and the NL had 16 teams. This was due to the fact that interleague play, or matchups between the two leagues, was an uncommon occurrence and all interleague matchups were scheduled for the same dates. The Houston Astros joined the American League in 2013, and now interleague play is held throughout the season.
+

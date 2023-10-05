@@ -1,0 +1,30 @@
+---
+title: "American League"
+---
+
+## American League Teams
+
+### East Division
+
+* New York Yankees
+* Boston Red Sox
+* Baltimore Orioles
+* Tampa Bay Rays
+* Toronto Blue Jays
+
+### Central Division
+
+* Minnesota Twins
+* Chicago White Sox
+* Cleveland Guardians
+* Kansas City Royals
+* Detroit Tigers
+
+### West Division
+
+* Seattle Mariners
+* Los Angeles Angels
+* Houston Astros
+* Texas Rangers
+* Oakland Athletics
+

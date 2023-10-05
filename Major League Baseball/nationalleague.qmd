@@ -1,0 +1,30 @@
+---
+title: "National League"
+---
+
+## National League Teams
+
+### East Division
+
+* Atlanta Braves
+* Philadelpia Phillies
+* Miami Marlins
+* New York Mets
+* Washington Nationals
+
+### Central Division
+
+* Chicago Cubs
+* Saint Louis Cardinals
+* Cincinnati Reds
+* Pittsburgh Pirates
+* Milwaukee Brewers
+
+### West Division
+
+* San Francisco Giants
+* Los Angeles Dodgers
+* Arizona Diamondbacks
+* Colorado Rockies
+* San Diego Padres
+

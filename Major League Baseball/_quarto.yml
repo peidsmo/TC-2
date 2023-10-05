@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Major League Baseball"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: American League
+      - href: nationalleague.qmd
+        text: National League
+
+format:
+  html:
+    theme:
+      light: materia
+      dark: superhero
+    css: styles.css
+    toc: true
+
+  
+
+
+
